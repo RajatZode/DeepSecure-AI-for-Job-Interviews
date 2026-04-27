@@ -32,7 +32,7 @@ dlib (for facial landmarks)
 Tkinter (GUI)
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/deepsecure.git
+git clone https://github.com/RajatZode/DeepSecure-AI-for-Job-Interviews
 cd deepsecure
 
 2️⃣ Install required modules
